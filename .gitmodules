@@ -1,0 +1,3 @@
+[submodule "TestSubmodule"]
+	path = TestSubmodule
+	url = https://github.com/Volodymyr1337/C-Samples.git
